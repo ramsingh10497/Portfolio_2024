@@ -24,17 +24,17 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Javascript, Reactjs and Blockchain. </b>
+                <b className="purple">
+                  {" "}
+                  Javascript, ReactJS, NodeJS, SQL and Strapi-CMS.{" "}
+                </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                also in areas related to <b className="purple">Data Analyst.</b>
               </i>
               <br />
               <br />
