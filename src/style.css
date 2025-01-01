@@ -742,3 +742,7 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.mb-40 {
+  margin-bottom: 10rem;
+}
